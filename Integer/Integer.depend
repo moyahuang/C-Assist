@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554196343 source:g:\c++assist\integer\integer.cpp
+	"Integer.h"
+
+1554196489 g:\c++assist\integer\integer.h
+	<iostream>
+
+1554196280 source:g:\c++assist\integer\main.cpp
+	<iostream>
+	"Integer.h"
+

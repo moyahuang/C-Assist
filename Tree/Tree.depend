@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552919272 source:g:\c++assist\tree\tree.cpp
+	"Tree.h"
+
+1552919277 g:\c++assist\tree\tree.h
+
+1552919258 source:g:\c++assist\tree\main.cpp
+	<iostream>
+	"Tree.h"
+

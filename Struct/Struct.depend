@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553176244 source:g:\c++assist\struct\book.cpp
+	"book.h"
+	<string>
+
+1553176269 g:\c++assist\struct\book.h
+	<string>
+

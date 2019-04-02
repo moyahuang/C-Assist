@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1551666029 source:g:\c++assist\test\main.cpp
+	<iostream>
+	<iomanip>
+
